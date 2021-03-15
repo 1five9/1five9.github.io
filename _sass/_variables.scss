@@ -1,0 +1,29 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4183C4;
+$yellow: #dcc82a8c;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lessLightGray: #ddd;
+$lightGray: #eee;
+$white: #fffff5;
+
+// Font stacks
+$helvetica: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$helveticaNeue: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$georgia: Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 686px) {
+    @content;
+  }
+}
