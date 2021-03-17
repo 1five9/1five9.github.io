@@ -25,7 +25,8 @@ The final grade will be based 20% on homeworks and 80% on the two final mini-pro
 
 The course will be taught by:
 - [Ugo Rosolia](https://urosolia.github.io/) ([urosolia@caltech.edu](mailito:urosolia@caltech.edu)); 
-- [Jeremy Bernstein](https://jeremybernste.in) ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
+- [Jeremy Bernstein](https://jeremybernste.in/) ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
+- [Yisong Yue](http://yisongyue.com/) ([yyue@caltech.edu](mailto:yyue@caltech.edu)).
 
 ### Office hours
 
