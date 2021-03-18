@@ -23,7 +23,7 @@ $georgia: Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
-  @media screen and (max-width: 686px) {
+  @media screen and (max-width: 742px) {
     @content;
   }
 }
