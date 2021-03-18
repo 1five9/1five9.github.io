@@ -12,10 +12,10 @@ Neural networks are a powerful tool in modern machine learning, driving progress
 
 - How should I wire up my neural network?
 - What class of functions does my network realise?
-- If my wide 2-layer network can fit any dataset, why would I ever want anything else?
+- If my wide 2-layer network can fit any dataset, why try anything else?
 - How far is it safe to perturb my neural network during learning?
-- Why does my network with vastly more parameters than training data still generalise?
-- Why is VC dimension not a relevant complexity measure for my neural network?
+- Why does my network with more parameters than training data still generalise?
+- Why is VC dimension not a relevant complexity measure for my network?
 - How much information did my neural network extract from the training data?
 
 *Health warning: these questions are still the subject of active research. This course will present the instructor's best understanding of the issues and their resolutions.*
