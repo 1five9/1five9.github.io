@@ -59,7 +59,7 @@ Office hours will be held on Wednesdays from 9--11am on [the class Discord serve
 | 1  | 3/30      | Discrete MDPs        	    	      |  |
 | 2  | 4/01      | Optimal Control       	              |  |
 | 3  | 4/06      | Model Predictive Control               |  |
-| 4  | 4/08      | Parametric Optimization	              |  |
+| 4  | 4/08      | MPC: feasibility and stability         |  |
 | 5  | 4/13      | Learning MPC 				          |  |
 | 6  | 4/15      | Uncertain Learning MPC    	          |  |
 |    |           | **Topic 2: Neural Network Theory**     |  |
