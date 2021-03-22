@@ -20,17 +20,6 @@ Neural networks are a powerful tool in modern machine learning, driving progress
 
 *Health warning: these questions are still the subject of active research. This course will present the instructor's best understanding of the issues and their resolutions.*
 
-### Lecture schedule
-
-| Lecture     | Date        | Subject	  	  	  	  	  	    | Resources              |
-| ----------- | ----------- | --------------------------------- | ---------------------- |
-| Lecture 1   | x / x / 21  | Neural architecture design	    | video / slides / notes |
-| Lecture 2   | x / x / 21  | Network function spaces	        | video / slides / notes |
-| Lecture 3   | x / x / 21  | Perturbation theory	            | video / slides / notes |
-| Lecture 4   | x / x / 21  | First order optimisation	        | video / slides / notes |
-| Lecture 5   | x / x / 21  | Statistical learning theory       | video / slides / notes |
-| Lecture 6   | x / x / 21  | PAC-Bayesian theory	            | video / slides / notes |
-
 ### Instructor
 
-This half of the course will be taught by [Jeremy Bernstein](https://jeremybernste.in) ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
+This part of the course will be taught by [Jeremy Bernstein](https://jeremybernste.in) ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
