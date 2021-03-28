@@ -12,13 +12,18 @@ The goal of the class is to bring students up to speed in two topics in modern m
 
 Caltech listing: `CS/CNS/EE/IDS 159
 (3-0-6)	TTh 2:30-4:00.`<br>
-Office hours: `W 9:00-11:00` @ [discord.gg/vMn5fgjYkq](https://discord.gg/vMn5fgjYkq).
+Office hours: `M 3:00-4:00 && W 9:00-10:00`.
 
 ### Instructors
 
-- [Yisong Yue](http://yisongyue.com/) ([yyue@caltech.edu](mailto:yyue@caltech.edu));
-- [Ugo Rosolia](https://urosolia.github.io/) ([urosolia@caltech.edu](mailito:urosolia@caltech.edu));
-- [Jeremy Bernstein](https://jeremybernste.in/) ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
+- Yisong Yue ([yyue@caltech.edu](mailto:yyue@caltech.edu));
+- Ugo Rosolia ([urosolia@caltech.edu](mailito:urosolia@caltech.edu));
+- Jeremy Bernstein ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
+
+### Teaching assistants
+- Natalie Bernat ([nbernat@caltech.edu](mailto:nbernat@caltech.edu));
+- Joe Marino ([jmarino@caltech.edu](mailto:jmarino@caltech.edu));
+- Alex Farhang ([afarhang@caltech.edu](mailto:afarhang@caltech.edu)).
 
 ### Structure
 
@@ -26,13 +31,27 @@ Office hours: `W 9:00-11:00` @ [discord.gg/vMn5fgjYkq](https://discord.gg/vMn5fg
 - Weeks 4--6: lectures on neural network theory;
 - Weeks 7--10: research project and special guest lectures.
 
+### Discord
+
+Office hours will be held on the class Discord server. A signup link will be sent to students during the first week of class. Students are encouraged to use the Discord freely at other times to discuss homeworks, projects and any other class-related matters. If you do not have access to the Discord by the end of the first week of class, email an instructor.
+
+It goes without saying, but please remember to treat other students with respect, and don't say anything you wouldn't in a Caltech classroom.
+
+<!-- <center><iframe src="https://discord.com/widget?id=820692257828110386&theme=dark" style="width:100%; height:300px" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></center> -->
+
 ### Grading
 
 The final grade will be based 20% on homeworks and 80% on the final project.
 
 ### Homeworks
 
-Homeworks will be set on Thursday and due the Thursday after, as follows:
+Students should complete homeworks in groups of three to four---submitting one solution document per group. All students in a group should understand all parts of the completed homework. If you don't have a group, use the `#matchmaking` channel on Discord to find one.
+
+Completed homeworks should be submitted on [Gradescope](https://www.gradescope.com/courses/256450/). If you do not have access to the Gradescope by the end of the first week of class, email an instructor.
+
+### Homework schedule
+
+Homeworks will be set on Thursday and due the Thursday after.
 
 | #    | Date set        | Date due	  	  | Resources              |
 | ----------- | --------------- | --------------- | ---------------------- |
@@ -41,34 +60,32 @@ Homeworks will be set on Thursday and due the Thursday after, as follows:
 | 3  | 4/22     | 4/29    |  |
 | 4  | 4/29     | 5/06    |  |
 
+### Late policy
+
+A group has a total of 48 late hours for the term. This means that if the first homework is submitted 47 hours late and the second homework is submitted two hours late, the group would incur no penalty on the first homework but score zero on the second.
+
 ### Final project
 
-The final project will be conducted during the last four weeks of class. Students are encouraged to work in teams. Students may either pick one of the special topics to build their project on, or alternatively they may attempt to mix the two.
-
-### Office hours
-
-Office hours will be held on Wednesdays from 9--11am on [the class Discord server](https://discord.gg/vMn5fgjYkq). Students are encouraged to use the Discord freely at other times to discuss homeworks, projects and any other class-related matters.
-
-<center><iframe src="https://discord.com/widget?id=820692257828110386&theme=dark" style="width:100%; height:300px" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></center>
+The final project will be conducted during the last four weeks of class. Students should work in teams of three to four. Students may either pick one of the special topics to build their project on, or alternatively they may attempt to mix the two topics. Project proposals are due 5/13 and projects should be completed before the poster session on 6/03.
 
 ### Lecture schedule
 
 | #  | Date      | Subject	  	  	  	  	  	        | Resources              |
 | -- | --------- | -------------------------------------- | ---------------------- |
-|    |           | **Topic 1: RL & Control**              |  |
-| 1  | 3/30      | Discrete MDPs        	    	      |  |
-| 2  | 4/01      | Optimal Control       	              |  |
-| 3  | 4/06      | Model Predictive Control               |  |
-| 4  | 4/08      | MPC: feasibility and stability         |  |
-| 5  | 4/13      | Learning MPC 				          |  |
-| 6  | 4/15      | Uncertain Learning MPC    	          |  |
-|    |           | **Topic 2: Neural Network Theory**     |  |
-| 7  | 4/20      | Neural Architecture Design	          |  |
-| 8  | 4/22      | Network Function Spaces	              |  |
-| 9  | 4/27      | Network Optimisation	                  |  |
-| 10 | 4/29      | Statistical Learning Theory	          |  |
-| 11 | 5/04      | PAC-Bayesian Theory                    |  |
-| 12 | 5/06      | Project Ideas                          |  |
+|    |           | **Topic 1—RL & Control**              |  |
+| 1  | 3/30      | Discrete MDPs        	    	      | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 2  | 4/01      | Optimal Control       	              | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 3  | 4/06      | Model Predictive Control               | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 4  | 4/08      | MPC: feasibility and stability         | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 5  | 4/13      | Learning MPC 				          | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 6  | 4/15      | Uncertain Learning MPC    	          | [zoom](https://caltech.zoom.us/j/83968752246) |
+|    |           | **Topic 2—Neural Network Theory**     |  |
+| 7  | 4/20      | Neural Architecture Design	          | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 8  | 4/22      | Network Function Spaces	              | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 9  | 4/27      | Network Optimisation	                  | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 10 | 4/29      | Statistical Learning Theory	          | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 11 | 5/04      | PAC-Bayesian Theory                    | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 12 | 5/06      | Project Ideas                          | [zoom](https://caltech.zoom.us/j/83968752246) |
 |    |           | **Final Project & Guest Lectures**     |  |
 | 13 | 5/11      | TBD	            				      |  |
 | 14 | 5/13      | TBD	            				      |  |
@@ -77,6 +94,6 @@ Office hours will be held on Wednesdays from 9--11am on [the class Discord serve
 | 17 | 5/25      | TBD	            				      |  |
 | 18 | 5/27      | TBD	            				      |  |
 | 19 | 6/01      | TBD	            				      |  |
-| 20 | 6/03      | TBD	            				      |  |
+| 20 | 6/03      | Poster session	             	      |  |
 
 <center><img src="../images/robot.png" style="width:60%; padding-top: 80px"></center>
