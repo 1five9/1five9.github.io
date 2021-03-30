@@ -12,7 +12,7 @@ The goal of the class is to bring students up to speed in two topics in modern m
 
 Caltech listing: `CS/CNS/EE/IDS 159
 (3-0-6)	TTh 2:30-4:00.`<br>
-Office hours: `M 3:00-4:00 && W 9:00-10:00`.
+Office hours: `MW 3:00-4:00`.
 
 ### Instructors
 
