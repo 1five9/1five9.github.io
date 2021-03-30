@@ -45,7 +45,7 @@ The final grade will be based 20% on homeworks and 80% on the final project.
 
 ### Homeworks
 
-Students should complete homeworks in groups of three to four---submitting one solution document per group. All students in a group should understand all parts of the completed homework. If you don't have a group, use the `#matchmaking` channel on Discord to find one.
+Students should complete homeworks in groups of two to three---submitting one solution document per group. All students in a group should understand all parts of the completed homework. If you don't have a group, use the `#matchmaking` channel on Discord to find one.
 
 Completed homeworks should be submitted on [Gradescope](https://www.gradescope.com/courses/256450/). If you do not have access to the Gradescope by the end of the first week of class, email an instructor.
 
