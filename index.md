@@ -73,7 +73,7 @@ The final project will be conducted during the last four weeks of class. Student
 | #  | Date      | Subject	  	  	  	  	  	        | Resources              | Slides |
 | -- | --------- | -------------------------------------- | ---------------------- | ---------------------- |
 |    |           | **Topic 1—RL & Control**              |  |
-| 1  | 3/30      | Discrete MDPs        	    	      | [zoom](https://caltech.zoom.us/j/83968752246) | [pdf](https://github.com/1five9/1five9.github.io/raw/master/slides/control/Lecture_1_MDPs.pdf) |
+| 1  | 3/30      | Discrete MDPs        	    	      | [zoom](https://caltech.zoom.us/j/83968752246) | [pdf](https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf) |
 | 2  | 4/01      | Optimal Control       	              | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 3  | 4/06      | Model Predictive Control               | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 4  | 4/08      | MPC: feasibility and stability         | [zoom](https://caltech.zoom.us/j/83968752246) | |
