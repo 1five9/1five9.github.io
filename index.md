@@ -66,7 +66,7 @@ A group has a total of 48 late hours for the term. This means that if the first 
 
 ### Final project
 
-The final project will be conducted during the last four weeks of class. Students should work in teams of three to four. Students may either pick one of the special topics to build their project on, or alternatively they may attempt to mix the two topics. Project proposals are due 5/13 and projects should be completed before the poster session on 6/03.
+The final project will be conducted during the last four weeks of class. Students should work in teams of two to three. Students may either pick one of the special topics to build their project on, or alternatively they may attempt to mix the two topics. Project proposals are due 5/13 and projects should be completed before the poster session on 6/03.
 
 ### Lecture schedule
 
