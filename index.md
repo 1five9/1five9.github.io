@@ -70,10 +70,10 @@ The final project will be conducted during the last four weeks of class. Student
 
 ### Lecture schedule
 
-| #  | Date      | Subject	  	  	  	  	  	        | Resources              | Slides |
-| -- | --------- | -------------------------------------- | ---------------------- | ---------------------- |
+| #  | Date      | Subject	  	  	  	  	  	        | Resources              | 
+| -- | --------- | -------------------------------------- | ---------------------- |
 |    |           | **Topic 1—RL & Control**              |  |
-| 1  | 3/30      | Discrete MDPs        	    	      | [zoom](https://caltech.zoom.us/j/83968752246) | [pdf](https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf) / [vid](https://caltech.zoom.us/rec/share/VR3fwwu9QeALQ80dRtIghSqzpnkpAOpF_bwePNoBSnBzRxzgNN3uV4OdzvmBe8VE.ftHclybplbeeU0_s?startTime=1617141230000) |
+| 1  | 3/30      | Discrete MDPs        	    	      | [intro](https://1five9.github.io/slides/intro.pdf) / [pdf](https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf) / [vid](https://caltech.zoom.us/rec/share/VR3fwwu9QeALQ80dRtIghSqzpnkpAOpF_bwePNoBSnBzRxzgNN3uV4OdzvmBe8VE.ftHclybplbeeU0_s?startTime=1617141230000) |
 | 2  | 4/01      | Optimal Control       	              | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 3  | 4/06      | Model Predictive Control               | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 4  | 4/08      | MPC: feasibility and stability         | [zoom](https://caltech.zoom.us/j/83968752246) | |
