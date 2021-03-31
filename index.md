@@ -70,31 +70,31 @@ The final project will be conducted during the last four weeks of class. Student
 
 ### Lecture schedule
 
-| #  | Date      | Subject	  	  	  	  	  	        | Resources              |
-| -- | --------- | -------------------------------------- | ---------------------- |
+| #  | Date      | Subject	  	  	  	  	  	        | Resources              | Slides |
+| -- | --------- | -------------------------------------- | ---------------------- | ---------------------- |
 |    |           | **Topic 1—RL & Control**              |  |
-| 1  | 3/30      | Discrete MDPs        	    	      | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 2  | 4/01      | Optimal Control       	              | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 3  | 4/06      | Model Predictive Control               | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 4  | 4/08      | MPC: feasibility and stability         | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 5  | 4/13      | Learning MPC 				          | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 6  | 4/15      | Uncertain Learning MPC    	          | [zoom](https://caltech.zoom.us/j/83968752246) |
-|    |           | **Topic 2—Neural Network Theory**     |  |
-| 7  | 4/20      | Neural Architecture Design	          | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 8  | 4/22      | Network Function Spaces	              | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 9  | 4/27      | Network Optimisation	                  | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 10 | 4/29      | Statistical Learning Theory	          | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 11 | 5/04      | PAC-Bayesian Theory                    | [zoom](https://caltech.zoom.us/j/83968752246) |
-| 12 | 5/06      | Project Ideas                          | [zoom](https://caltech.zoom.us/j/83968752246) |
-|    |           | **Final Project & Guest Lectures**     |  |
-| 13 | 5/11      | TBD	            				      |  |
-| 14 | 5/13      | TBD	            				      |  |
-| 15 | 5/18      | TBD	            				      |  |
-| 16 | 5/20      | TBD	            				      |  |
-| 17 | 5/25      | TBD	            				      |  |
-| 18 | 5/27      | TBD	            				      |  |
-| 19 | 6/01      | TBD	            				      |  |
-| 20 | 6/03      | Poster session	             	      |  |
+| 1  | 3/30      | Discrete MDPs        	    	      | [zoom](https://caltech.zoom.us/j/83968752246) | [pdf](https://github.com/1five9/1five9.github.io/raw/slides/control/Lecture_1_MDPs.pdf) |
+| 2  | 4/01      | Optimal Control       	              | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 3  | 4/06      | Model Predictive Control               | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 4  | 4/08      | MPC: feasibility and stability         | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 5  | 4/13      | Learning MPC 				          | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 6  | 4/15      | Uncertain Learning MPC    	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
+|    |           | **Topic 2—Neural Network Theory**     |  | |
+| 7  | 4/20      | Neural Architecture Design	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 8  | 4/22      | Network Function Spaces	              | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 9  | 4/27      | Network Optimisation	                  | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 10 | 4/29      | Statistical Learning Theory	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 11 | 5/04      | PAC-Bayesian Theory                    | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 12 | 5/06      | Project Ideas                          | [zoom](https://caltech.zoom.us/j/83968752246) | |
+|    |           | **Final Project & Guest Lectures**     |  | |
+| 13 | 5/11      | TBD	            				      |  | |
+| 14 | 5/13      | TBD	            				      |  | |
+| 15 | 5/18      | TBD	            				      |  | |
+| 16 | 5/20      | TBD	            				      |  | |
+| 17 | 5/25      | TBD	            				      |  | |
+| 18 | 5/27      | TBD	            				      |  | |
+| 19 | 6/01      | TBD	            				      |  | |
+| 20 | 6/03      | Poster session	             	      |  | |
 
 ### Acknowledgements
 - The Jekyll theme is modified from [Jekyll Now](https://github.com/barryclark/jekyll-now).
