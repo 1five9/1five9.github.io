@@ -55,7 +55,7 @@ Homeworks will be set on Thursday and due the Thursday after.
 
 | #    | Date set        | Date due	  	  | Resources              |
 | ----------- | --------------- | --------------- | ---------------------- |
-| 1  | 4/01     | 4/08    |  |
+| 1  | 4/01     | 4/08    | [hw1](https://1five9.github.io/hw/h1.zip) |
 | 2  | 4/08     | 4/15    |  |
 | 3  | 4/22     | 4/29    |  |
 | 4  | 4/29     | 5/06    |  |
@@ -74,7 +74,7 @@ The final project will be conducted during the last four weeks of class. Student
 | -- | --------- | -------------------------------------- | ---------------------- |
 |    |           | **Topic 1—RL & Control**              |  |
 | 1  | 3/30      | Discrete MDPs        	    	      | [intro](https://1five9.github.io/slides/intro.pdf) / [pdf](https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf) / [vid](https://caltech.zoom.us/rec/share/VR3fwwu9QeALQ80dRtIghSqzpnkpAOpF_bwePNoBSnBzRxzgNN3uV4OdzvmBe8VE.ftHclybplbeeU0_s?startTime=1617141230000) |
-| 2  | 4/01      | Optimal Control       	              | [zoom](https://caltech.zoom.us/j/83968752246) / [pdf](https://1five9.github.io/slides/control/Lecture_2_OCPs.pdf)| |
+| 2  | 4/01      | Optimal Control       	              | [pdf](https://1five9.github.io/slides/control/Lecture_2_OCPs.pdf) / [vid](https://caltech.zoom.us/rec/share/v32Tbod7kDVVatTJO9u4LPjtuKYY1ffxIYMx77NvU3LPcjzvJfBMcr06K9vMkg6p.NbAhirdzWsEf9pE6?startTime=1617312887000)| |
 | 3  | 4/06      | Model Predictive Control               | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 4  | 4/08      | MPC: feasibility and stability         | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 5  | 4/13      | Learning MPC 				          | [zoom](https://caltech.zoom.us/j/83968752246) | |
