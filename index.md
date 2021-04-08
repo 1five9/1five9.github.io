@@ -76,8 +76,8 @@ The final project will be conducted during the last four weeks of class. Student
 | 1  | 3/30      | Discrete MDPs        	    	      | [intro](https://1five9.github.io/slides/intro.pdf) / [pdf](https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf) / [vid](https://caltech.zoom.us/rec/share/VR3fwwu9QeALQ80dRtIghSqzpnkpAOpF_bwePNoBSnBzRxzgNN3uV4OdzvmBe8VE.ftHclybplbeeU0_s?startTime=1617141230000) |
 | 2  | 4/01      | Optimal Control       	              | [pdf](https://1five9.github.io/slides/control/Lecture_2_OCPs.pdf) / [vid](https://caltech.zoom.us/rec/share/v32Tbod7kDVVatTJO9u4LPjtuKYY1ffxIYMx77NvU3LPcjzvJfBMcr06K9vMkg6p.NbAhirdzWsEf9pE6?startTime=1617312887000)| |
 | 3  | 4/06      | Model Predictive Control               | [pdf](https://1five9.github.io/slides/control/Lecture_3_MPC.pdf) / [vid](https://caltech.zoom.us/rec/share/Q0kDgmvMJ800GMX46lTipBVjw5Z5SkuJ7MVUXKjmx751bmAUCsTS9kx2AHQWZ-g1.JsnICIGB-NeBSJ9u?startTime=1617744869000)| |
-| 4  | 4/08      | MPC: feasibility and stability         | [zoom](https://caltech.zoom.us/j/83968752246) | |
-| 5  | 4/13      | Learning MPC 				          | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 4  | 4/08      | Learning MPC                           | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 5  | 4/13      | Model Learning in MPC 				          | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 6  | 4/15      | Uncertain Learning MPC    	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
 |    |           | **Topic 2—Neural Network Theory**     |  | |
 | 7  | 4/20      | Neural Architecture Design	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
