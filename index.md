@@ -56,7 +56,7 @@ Homeworks will be set on Thursday and due the Thursday after.
 | #    | Date set        | Date due	  	  | Resources              |
 | ----------- | --------------- | --------------- | ---------------------- |
 | 1  | 4/01     | 4/08    | [hw1](https://github.com/1five9/1five9.github.io/raw/master/hw/hw_1.zip) |
-| 2  | 4/08     | 4/15    |  |
+| 2  | 4/08     | 4/15    | [hw2](https://github.com/1five9/1five9.github.io/raw/master/hw/hw_2.zip) |
 | 3  | 4/22     | 4/29    |  |
 | 4  | 4/29     | 5/06    |  |
 
