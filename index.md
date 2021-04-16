@@ -78,7 +78,7 @@ The final project will be conducted during the last four weeks of class. Student
 | 3  | 4/06      | Model Predictive Control               | [pdf](https://1five9.github.io/slides/control/Lecture_3_MPC.pdf) / [vid](https://caltech.zoom.us/rec/share/Q0kDgmvMJ800GMX46lTipBVjw5Z5SkuJ7MVUXKjmx751bmAUCsTS9kx2AHQWZ-g1.JsnICIGB-NeBSJ9u?startTime=1617744869000)| |
 | 4  | 4/08      | Learning MPC                           | [pdf](https://1five9.github.io/slides/control/Lecture_4_MPC_TC.pdf)/ [supp](https://1five9.github.io/slides/control/Lecture_4_SuppMaterial.pdf) / [vid](https://caltech.zoom.us/rec/share/6hy8WYahNjzqyvbw5vh2JX-RIKeq1LJEt-KTKOXye86DQxA9H7I9GM13jF7NXYU9.LMNtHFtXBmQETYfa?startTime=1617917676000) | |
 | 5  | 4/13      | Model Learning in MPC 				          | [pdf](https://1five9.github.io/slides/control/Lecture_5_MPC_and_Model_Learning.pdf) / [vid](https://caltech.zoom.us/rec/share/EUwZy302kdmZaHZTxdxm4xNI6AE1kBuijoUNg7Ay909A58kJhfd-THQrEFxOUoZQ.HWlG08DHSjJgL1Ts) | |
-| 6  | 4/15      | Planning Under Uncertainty and Project Ideas    	          | [zoom](https://caltech.zoom.us/j/83968752246) / [pdf](https://1five9.github.io/slides/control/Lecture_6.pdf)| |
+| 6  | 4/15      | Planning Under Uncertainty and Project Ideas    	          | [pdf](https://1five9.github.io/slides/control/Lecture_6.pdf)| / [vid](https://caltech.zoom.us/rec/play/NMspLIgaI2jjVw84424EkfA_kta9AXX8JIxm2WW2OljV36I7NQ9CMEsYkEyBSosgm2ksCMSM-FeZj4jD.kq7ZyqjY2FPskbRR?continueMode=true)|
 |    |           | **Topic 2—Neural Network Theory**     |  | |
 | 7  | 4/20      | Neural Architecture Design	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 8  | 4/22      | Network Function Spaces	              | [zoom](https://caltech.zoom.us/j/83968752246) | |
