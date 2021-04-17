@@ -23,3 +23,28 @@ Neural networks are a powerful tool in modern machine learning, driving progress
 ### Instructor
 
 This part of the course will be taught by [Jeremy Bernstein](https://jeremybernste.in) ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
+
+### Lecture 7 references
+
+Network topologies:
+- [Backpropagation applied to handwritten zip code recognition](https://ieeexplore.ieee.org/document/6795724)—CNNs;
+- [Attention is all you need](https://arxiv.org/abs/1706.03762)—transformers.
+
+Neural architecture search:
+- [DARTS: differentiable architecture search](https://arxiv.org/abs/1806.09055);
+- [Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578).
+
+Local network design:
+- [Centered weight normalization](https://ieeexplore.ieee.org/document/8237567)—weight constraints;
+- [Batch normalization](https://arxiv.org/abs/1502.03167);
+- [Normalization propagation](https://arxiv.org/abs/1603.01431)—nonlinearity design.
+
+Perturbation theory:
+- [Perturbation theory for the singular value decomposition](https://users.math.msu.edu/users/iwenmark/Teaching/MTH995/Papers/SVD_Stewart.pdf);
+- [Perturbation theory for multilayer perceptrons](https://arxiv.org/abs/2002.03432).
+
+### Lecture 8 references
+### Lecture 9 references
+### Lecture 10 references
+### Lecture 11 references
+### Lecture 12 references
