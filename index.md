@@ -55,8 +55,8 @@ Homeworks will be set on Thursday and due the Thursday after.
 
 | #    | Date set        | Date due	  	  | Resources              |
 | ----------- | --------------- | --------------- | ---------------------- |
-| 1  | 4/01     | 4/08    | [hw1](https://github.com/1five9/1five9.github.io/raw/master/hw/hw_1.zip) |
-| 2  | 4/08     | 4/15    | [hw2](https://github.com/1five9/1five9.github.io/raw/master/hw/hw_2.zip) |
+| 1  | 4/01     | 4/08    | [hw1.zip](https://github.com/1five9/1five9.github.io/raw/master/hw/hw1.zip) |
+| 2  | 4/08     | 4/15    | [hw2.zip](https://github.com/1five9/1five9.github.io/raw/master/hw/hw2.zip) |
 | 3  | 4/22     | 4/29    |  |
 | 4  | 4/29     | 5/06    |  |
 
@@ -72,11 +72,12 @@ The final project will be conducted during the last four weeks of class. Student
 
 | #  | Date      | Subject	  	  	  	  	  	        | Resources              | 
 | -- | --------- | -------------------------------------- | ---------------------- |
+| 0  | 3/30      | Introduction        	    	      | [pdf](https://1five9.github.io/slides/intro.pdf) / [vid](https://caltech.zoom.us/rec/share/VR3fwwu9QeALQ80dRtIghSqzpnkpAOpF_bwePNoBSnBzRxzgNN3uV4OdzvmBe8VE.ftHclybplbeeU0_s?startTime=1617140056000) |
 |    |           | **Topic 1—RL & Control**              |  |
-| 1  | 3/30      | Discrete MDPs        	    	      | [intro](https://1five9.github.io/slides/intro.pdf) / [pdf](https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf) / [vid](https://caltech.zoom.us/rec/share/VR3fwwu9QeALQ80dRtIghSqzpnkpAOpF_bwePNoBSnBzRxzgNN3uV4OdzvmBe8VE.ftHclybplbeeU0_s?startTime=1617141230000) |
+| 1  | 3/30      | Discrete MDPs        	    	      | [pdf](https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf) / [vid](https://caltech.zoom.us/rec/share/VR3fwwu9QeALQ80dRtIghSqzpnkpAOpF_bwePNoBSnBzRxzgNN3uV4OdzvmBe8VE.ftHclybplbeeU0_s?startTime=1617141230000) |
 | 2  | 4/01      | Optimal Control       	              | [pdf](https://1five9.github.io/slides/control/Lecture_2_OCPs.pdf) / [vid](https://caltech.zoom.us/rec/share/v32Tbod7kDVVatTJO9u4LPjtuKYY1ffxIYMx77NvU3LPcjzvJfBMcr06K9vMkg6p.NbAhirdzWsEf9pE6?startTime=1617312887000)| |
 | 3  | 4/06      | Model Predictive Control               | [pdf](https://1five9.github.io/slides/control/Lecture_3_MPC.pdf) / [vid](https://caltech.zoom.us/rec/share/Q0kDgmvMJ800GMX46lTipBVjw5Z5SkuJ7MVUXKjmx751bmAUCsTS9kx2AHQWZ-g1.JsnICIGB-NeBSJ9u?startTime=1617744869000)| |
-| 4  | 4/08      | Learning MPC                           | [pdf](https://1five9.github.io/slides/control/Lecture_4_MPC_TC.pdf)/ [supp](https://1five9.github.io/slides/control/Lecture_4_SuppMaterial.pdf) / [vid](https://caltech.zoom.us/rec/share/6hy8WYahNjzqyvbw5vh2JX-RIKeq1LJEt-KTKOXye86DQxA9H7I9GM13jF7NXYU9.LMNtHFtXBmQETYfa?startTime=1617917676000) | |
+| 4  | 4/08      | Learning MPC                           | [pdf](https://1five9.github.io/slides/control/Lecture_4_MPC_TC.pdf) / [vid](https://caltech.zoom.us/rec/share/6hy8WYahNjzqyvbw5vh2JX-RIKeq1LJEt-KTKOXye86DQxA9H7I9GM13jF7NXYU9.LMNtHFtXBmQETYfa?startTime=1617917676000) / [supp](https://1five9.github.io/slides/control/Lecture_4_SuppMaterial.pdf) | |
 | 5  | 4/13      | Model Learning in MPC 				          | [pdf](https://1five9.github.io/slides/control/Lecture_5_MPC_and_Model_Learning.pdf) / [vid](https://caltech.zoom.us/rec/share/EUwZy302kdmZaHZTxdxm4xNI6AE1kBuijoUNg7Ay909A58kJhfd-THQrEFxOUoZQ.HWlG08DHSjJgL1Ts) | |
 | 6  | 4/15      | Planning Under Uncertainty and Project Ideas    	          | [pdf](https://1five9.github.io/slides/control/Lecture_6.pdf)  / [vid](https://caltech.zoom.us/rec/play/NMspLIgaI2jjVw84424EkfA_kta9AXX8JIxm2WW2OljV36I7NQ9CMEsYkEyBSosgm2ksCMSM-FeZj4jD.kq7ZyqjY2FPskbRR?continueMode=true) ||
 |    |           | **Topic 2—Neural Network Theory**     |  | |
