@@ -35,7 +35,7 @@ Office hours: `MW 3:00-4:00`.
 
 Office hours will be held on the class Discord server. A signup link will be sent to students during the first week of class. Students are encouraged to use the Discord freely at other times to discuss homeworks, projects and any other class-related matters. If you do not have access to the Discord by the end of the first week of class, email an instructor.
 
-It goes without saying, but please remember to treat other students with respect, and don't say anything you wouldn't in a Caltech classroom.
+It goes without saying, but please remember to treat other students with respect and don't say anything you wouldn't in a Caltech classroom.
 
 <!-- <center><iframe src="https://discord.com/widget?id=820692257828110386&theme=dark" style="width:100%; height:300px" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></center> -->
 
