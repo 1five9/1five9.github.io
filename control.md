@@ -39,7 +39,7 @@ Iterative Learning MPC:
 - [Linear systems](https://www.sciencedirect.com/science/article/pii/S2405896317306523), [optimality guarantees](https://arxiv.org/abs/2010.15153), and [local approximations](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5284?casa_token=HmlZ1o4yVTYAAAAA%3AcNSHJUT_0XSaOcPO4fVXi6ErgUs2x1ezIqSjijq_t40F4quz3hauo1rOwMx6bJPj1imQz019yntTcACHbw)
 - [System identification for autonomous racing](https://ieeexplore.ieee.org/abstract/document/8896988) and the [python implementation](https://github.com/urosolia/RacingLMPC)
 - Iterative LMPC in [python](https://github.com/urosolia/LMPC) and [matlab](https://github.com/urosolia/LMPC_SimpleExample)
-- [Sample-based implementation](https://arxiv.org/abs/1904.06432)
+- [Sample-based LMPC](https://arxiv.org/abs/1904.06432)
 
 Learning for Control:
 - [Finite sample properties of system identification methods](https://ieeexplore.ieee.org/abstract/document/1024346)
