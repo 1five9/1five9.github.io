@@ -20,10 +20,10 @@ The class will first recall basic ideas from approximate dynamic programming and
 This part of the course will be taught by [Ugo Rosolia](https://urosolia.github.io/) ([urosolia@caltech.edu](mailito:urosolia@caltech.edu)).
 
 
-### Reading Material
+### Reading material
 
-Discrete MPDs:
-- [Neuro-Dynamic Programming](http://athenasc.com/ndpbook.html)
+Discrete MDPs:
+- [Neuro-dynamic programming](http://athenasc.com/ndpbook.html)
 - [Markov decision processes: discrete stochastic dynamic programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887)
 - [A survey and some new implementations](https://ieeexplore.ieee.org/document/8476633).
 - [Aggregation, rollout, and policy improvement for reinforcement learning](https://arxiv.org/abs/1910.02426).
@@ -41,7 +41,7 @@ Iterative Learning MPC:
 - Iterative LMPC in [python](https://github.com/urosolia/LMPC) and [matlab](https://github.com/urosolia/LMPC_SimpleExample)
 - [Sample-based LMPC](https://arxiv.org/abs/1904.06432)
 
-Learning for Control:
+Learning for control:
 - [Finite sample properties of system identification methods](https://ieeexplore.ieee.org/abstract/document/1024346)
 - [The sample complexity of the linear quadratic regulator](https://link.springer.com/content/pdf/10.1007/s10208-019-09426-y.pdf)
 - [Learning multi-step prediction models for receding horizon control](https://ieeexplore.ieee.org/abstract/document/8550494)
@@ -67,7 +67,7 @@ predictive control](http://www.roboticsproceedings.org/rss11/p12.pdf)
 offline](https://arxiv.org/abs/1811.01848)
 - [Safe deep model-based RL for sparse cost robotic tasks](https://ieeexplore.ieee.org/abstract/document/9013084)
 
-Robust Planning in MPC
+Robust planning in MPC
 - [Optimizing over policies is NP-hard](https://ieeexplore.ieee.org/abstract/document/704989)
 - [Affine disturbance feedback policies](https://www.sciencedirect.com/science/article/pii/S0005109806000021)
 - [Disturbance feedback from a different prospective](https://link.springer.com/article/10.1007/s10107-003-0454-y)
