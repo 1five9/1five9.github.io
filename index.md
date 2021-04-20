@@ -81,7 +81,7 @@ The final project will be conducted during the last four weeks of class. Student
 | 5  | 4/13      | Model Learning in MPC 				          | [pdf](https://1five9.github.io/slides/control/Lecture_5_MPC_and_Model_Learning.pdf) / [vid](https://caltech.zoom.us/rec/share/EUwZy302kdmZaHZTxdxm4xNI6AE1kBuijoUNg7Ay909A58kJhfd-THQrEFxOUoZQ.HWlG08DHSjJgL1Ts) | |
 | 6  | 4/15      | Planning Under Uncertainty and Project Ideas    	          | [pdf](https://1five9.github.io/slides/control/Lecture_6.pdf)  / [vid](https://caltech.zoom.us/rec/play/NMspLIgaI2jjVw84424EkfA_kta9AXX8JIxm2WW2OljV36I7NQ9CMEsYkEyBSosgm2ksCMSM-FeZj4jD.kq7ZyqjY2FPskbRR?continueMode=true) ||
 |    |           | **Topic 2—Neural Network Theory**     |  | |
-| 7  | 4/20      | Neural Architecture Design	          | [zoom](https://caltech.zoom.us/j/83968752246) / [pdf](/slides/learning/07.pdf) | |
+| 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://caltech.zoom.us/rec/play/rBy3iYhn18vVQZ51EcnqjEfFfCBtsNO19b-vu4md5WI8sNh4rACX0MbIki6-ZMwVXT2zTqHJWEOzd6DN.TvAzOTJK7yLBgABn) | |
 | 8  | 4/22      | Network Function Spaces	              | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 9  | 4/27      | Network Optimisation	                  | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 10 | 4/29      | Statistical Learning Theory	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
