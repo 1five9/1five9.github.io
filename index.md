@@ -57,7 +57,7 @@ Homeworks will be set on Thursday and due the Thursday after.
 | ----------- | --------------- | --------------- | ---------------------- |
 | 1  | 4/01     | 4/08    | [hw1.zip](https://github.com/1five9/1five9.github.io/raw/master/hw/hw1.zip) |
 | 2  | 4/08     | 4/15    | [hw2.zip](https://github.com/1five9/1five9.github.io/raw/master/hw/hw2.zip) |
-| 3  | 4/22     | 4/29    |  |
+| 3  | 4/22     | 4/29    | [hw3.zip](https://github.com/1five9/1five9.github.io/raw/master/hw/hw3.zip) |
 | 4  | 4/29     | 5/06    |  |
 
 ### Late policy
