@@ -80,7 +80,7 @@ The final project will be conducted during the last four weeks of class. Student
 | 6  | 4/15      | Planning Under Uncertainty and Project Ideas    	          | [pdf](https://1five9.github.io/slides/control/Lecture_6.pdf)  / [vid](https://caltech.zoom.us/rec/play/NMspLIgaI2jjVw84424EkfA_kta9AXX8JIxm2WW2OljV36I7NQ9CMEsYkEyBSosgm2ksCMSM-FeZj4jD.kq7ZyqjY2FPskbRR?continueMode=true) ||
 |    |           | **Topic 2—Neural Network Theory**     |  | |
 | 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://caltech.zoom.us/rec/play/rBy3iYhn18vVQZ51EcnqjEfFfCBtsNO19b-vu4md5WI8sNh4rACX0MbIki6-ZMwVXT2zTqHJWEOzd6DN.TvAzOTJK7yLBgABn) | |
-| 8  | 4/22      | Network Function Spaces	              | [zoom](https://caltech.zoom.us/j/83968752246) / [pdf](/slides/learning/08.pdf) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)| |
+| 8  | 4/22      | Network Function Spaces	              | [pdf](/slides/learning/08.pdf) / [vid](https://caltech.zoom.us/rec/play/bGLQRSJmHAQApPegayj75CteOeBcwFej4CAy9HzmVptMIkRYXnkhj-jLZHKWnw-y1FnUj_vdyAla9dYL.IcLdrTbDGHHyFxC-) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)| |
 | 9  | 4/27      | Network Optimisation	                  | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 10 | 4/29      | Statistical Learning Theory	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 11 | 5/04      | PAC-Bayesian Theory                    | [zoom](https://caltech.zoom.us/j/83968752246) | |
