@@ -96,8 +96,8 @@ The final project will be conducted during the last four weeks of class. Student
 | 20 | 6/03      | Poster session	             	      |  | |
 
 ### Reading Material
-- Check the [control page](/control) for the first part of the course.
-- Check the [learning page](/learning) for the second part of the course.
+- [Control readings](/control).
+- [Learning readings](/learning).
 
 
 ### Acknowledgements
