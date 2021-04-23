@@ -95,6 +95,11 @@ The final project will be conducted during the last four weeks of class. Student
 | 19 | 6/01      | TBD	            				      |  | |
 | 20 | 6/03      | Poster session	             	      |  | |
 
+### Reading Material
+- Check the [control page](/control) for the first part of the course.
+- Check the [learning page](/learning) for the second part of the course.
+
+
 ### Acknowledgements
 - The Jekyll theme is modified from [Jekyll Now](https://github.com/barryclark/jekyll-now).
 - The [brain](https://pixabay.com/vectors/brain-mind-thinking-a-i-ai-2789677/), [controller](https://pixabay.com/illustrations/controller-remote-control-gamer-5980551/) and [robot](https://pixabay.com/illustrations/robot-disassembled-blue-lightbulb-3256109/) images are from Pixabay.
