@@ -72,3 +72,4 @@ Robust planning in MPC
 - [Affine disturbance feedback policies](https://www.sciencedirect.com/science/article/pii/S0005109806000021)
 - [Disturbance feedback from a different prospective](https://link.springer.com/article/10.1007/s10107-003-0454-y)
 - [The fixed tube approach](https://www.sciencedirect.com/science/article/pii/S0005109804002870)
+- [The shrinking tube approach](https://www.sciencedirect.com/science/article/pii/S0005109801000516)
