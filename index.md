@@ -82,7 +82,7 @@ The final project will be conducted during the last four weeks of class. Student
 | 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://caltech.zoom.us/rec/play/rBy3iYhn18vVQZ51EcnqjEfFfCBtsNO19b-vu4md5WI8sNh4rACX0MbIki6-ZMwVXT2zTqHJWEOzd6DN.TvAzOTJK7yLBgABn) | |
 | 8  | 4/22      | Network Function Spaces	              | [pdf](/slides/learning/08.pdf) / [vid](https://caltech.zoom.us/rec/play/bGLQRSJmHAQApPegayj75CteOeBcwFej4CAy9HzmVptMIkRYXnkhj-jLZHKWnw-y1FnUj_vdyAla9dYL.IcLdrTbDGHHyFxC-) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)| |
 | 9  | 4/27      | Network Optimisation	                  | [pdf](/slides/learning/09.pdf) / [vid](https://caltech.zoom.us/rec/play/rU1nt-YjeJRe6W4nacFoOb-2PZlZJPCZR51HdMM7KXuZ9QEJmSY_qs7HBppFRLVPY_kciq0-zfUunMro.nE0keoLWfmIj-vhd) | |
-| 10 | 4/29      | Statistical Learning Theory	          | [zoom](https://caltech.zoom.us/j/83968752246) | |
+| 10 | 4/29      | Statistical Learning Theory	          | [zoom](https://caltech.zoom.us/j/83968752246) / [pdf](/slides/learning/10.pdf) | |
 | 11 | 5/04      | PAC-Bayesian Theory                    | [zoom](https://caltech.zoom.us/j/83968752246) | |
 | 12 | 5/06      | Project Ideas                          | [zoom](https://caltech.zoom.us/j/83968752246) | |
 |    |           | **Final Project & Guest Lectures**     |  | |
