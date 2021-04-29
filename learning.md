@@ -44,7 +44,43 @@ Perturbation theory:
 - [Perturbation theory for multilayer perceptrons](https://arxiv.org/abs/2002.03432).
 
 ### Lecture 8 references
+
+Universal function approximation:
+- [Approximation by superpositions of a sigmoidal function](https://link.springer.com/article/10.1007/BF02551274);
+- [Approximation capabilities of multilayer feedforward networks](https://www.sciencedirect.com/science/article/abs/pii/089360809190009T).
+
+NNGP correspondence:
+- [Radford Neal's PhD thesis](http://www.cs.toronto.edu/~radford/ftp/thesis.pdf)—introduces NNGP;
+- [Kernel methods for deep learning](https://papers.nips.cc/paper/2009/hash/5751ec3e9a4feab575962e78e006250d-Abstract.html)—works out the relu kernel;
+- [Deep neural networks as Gaussian processes](https://arxiv.org/abs/1711.00165)—NNGP for many layers.
+
 ### Lecture 9 references
+
+"Classic" deep learning optimisers:
+- [Rprop](https://ieeexplore.ieee.org/document/298623);
+- [RMSprop](http://www.cs.toronto.edu/~hinton/coursera/lecture6/lec6.pdf);
+- [Adam](https://arxiv.org/abs/1412.6980).
+
+Optimisation models:
+- [Lipschitz smoothness](http://www.seas.ucla.edu/~vandenbe/236C/lectures/gradient.pdf);
+- [Cubic regularisation](https://link.springer.com/article/10.1007/s10107-006-0706-8);
+- [Mirror descent](http://www.princeton.edu/~yc5/ele522_optimization/lectures/mirror_descent.pdf).
+
+Relative optimisers:
+- [LARS](https://arxiv.org/abs/1708.03888), [LAMB](https://arxiv.org/abs/1904.00962) and [Fromage](https://arxiv.org/abs/2002.03432)—per layer relative updates;
+- [Madam](https://arxiv.org/abs/2006.14560)—per synapse relative updates;
+- [Nero](https://arxiv.org/abs/2102.07227) and [NFnets](https://arxiv.org/abs/2102.06171)—per neuron relative updates with weight constraints.
+
 ### Lecture 10 references
+
+Function counting and generalisation:
+- [Cover's function-counting theorem](https://isl.stanford.edu/~cover/papers/paper2.pdf);
+- [Vapnik and Chervonenkis's 1971 paper](https://epubs.siam.org/doi/10.1137/1116025);
+- [A textbook chapter on VC theory](http://agbs.kyb.tuebingen.mpg.de/lwk/) (chapter 5).
+
+VC theory and neural networks:
+- [Probable networks and plausible predictions](http://www.inference.org.uk/mackay/network.pdf) (section 10.4);
+- [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530).
+
 ### Lecture 11 references
 ### Lecture 12 references
