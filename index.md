@@ -78,14 +78,14 @@ The final project will be conducted during the last four weeks of class. Student
 | 4  | 4/08      | Learning MPC                           | [pdf](https://1five9.github.io/slides/control/Lecture_4_MPC_TC.pdf) / [vid](https://caltech.zoom.us/rec/share/6hy8WYahNjzqyvbw5vh2JX-RIKeq1LJEt-KTKOXye86DQxA9H7I9GM13jF7NXYU9.LMNtHFtXBmQETYfa?startTime=1617917676000) / [supp](https://1five9.github.io/slides/control/Lecture_4_SuppMaterial.pdf) |
 | 5  | 4/13      | Model Learning in MPC 				          | [pdf](https://1five9.github.io/slides/control/Lecture_5_MPC_and_Model_Learning.pdf) / [vid](https://caltech.zoom.us/rec/share/EUwZy302kdmZaHZTxdxm4xNI6AE1kBuijoUNg7Ay909A58kJhfd-THQrEFxOUoZQ.HWlG08DHSjJgL1Ts) |
 | 6  | 4/15      | Planning Under Uncertainty and Project Ideas    	          | [pdf](https://1five9.github.io/slides/control/Lecture_6.pdf)  / [vid](https://caltech.zoom.us/rec/play/NMspLIgaI2jjVw84424EkfA_kta9AXX8JIxm2WW2OljV36I7NQ9CMEsYkEyBSosgm2ksCMSM-FeZj4jD.kq7ZyqjY2FPskbRR?continueMode=true) |
-|    |           | **Topic 2—Neural Network Theory**     |  | |
+|    |           | **Topic 2—Neural Network Theory**     |  |
 | 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://caltech.zoom.us/rec/play/rBy3iYhn18vVQZ51EcnqjEfFfCBtsNO19b-vu4md5WI8sNh4rACX0MbIki6-ZMwVXT2zTqHJWEOzd6DN.TvAzOTJK7yLBgABn) |
 | 8  | 4/22      | Network Function Spaces	              | [pdf](/slides/learning/08.pdf) / [vid](https://caltech.zoom.us/rec/play/bGLQRSJmHAQApPegayj75CteOeBcwFej4CAy9HzmVptMIkRYXnkhj-jLZHKWnw-y1FnUj_vdyAla9dYL.IcLdrTbDGHHyFxC-) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)|
 | 9  | 4/27      | Network Optimisation	                  | [pdf](/slides/learning/09.pdf) / [vid](https://caltech.zoom.us/rec/play/rU1nt-YjeJRe6W4nacFoOb-2PZlZJPCZR51HdMM7KXuZ9QEJmSY_qs7HBppFRLVPY_kciq0-zfUunMro.nE0keoLWfmIj-vhd) |
 | 10 | 4/29      | Statistical Learning Theory	          | [pdf](/slides/learning/10.pdf) / [vid](https://caltech.zoom.us/rec/play/ywPwbkJuyGT3gAOTOAd_0DPvwlQHk2Ln7YumVRE72eeG3d9E9tqjECDe84tlZsCMW3euLlLrIm_j6nky.-ogkAxzEAEn6tIwH) |
 | 11 | 5/04      | PAC-Bayesian Theory                    | [zoom](https://caltech.zoom.us/j/83968752246) |
 | 12 | 5/06      | Project Ideas                          | [zoom](https://caltech.zoom.us/j/83968752246) |
-|    |           | **Final Project & Guest Lectures**     |  | |
+|    |           | **Final Project & Guest Lectures**     |  |
 | 13 | 5/11      | Joe Marino                             |  |
 | 14 | 5/13      | Yasaman Bahri       				      |  |
 | 15 | 5/18      | TBD	            				      |  |
