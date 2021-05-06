@@ -84,7 +84,7 @@ The final project will be conducted during the last four weeks of class. Student
 | 9  | 4/27      | Network Optimisation	                  | [pdf](/slides/learning/09.pdf) / [vid](https://caltech.zoom.us/rec/play/rU1nt-YjeJRe6W4nacFoOb-2PZlZJPCZR51HdMM7KXuZ9QEJmSY_qs7HBppFRLVPY_kciq0-zfUunMro.nE0keoLWfmIj-vhd) |
 | 10 | 4/29      | Statistical Learning Theory	          | [pdf](/slides/learning/10.pdf) / [vid](https://caltech.zoom.us/rec/play/ywPwbkJuyGT3gAOTOAd_0DPvwlQHk2Ln7YumVRE72eeG3d9E9tqjECDe84tlZsCMW3euLlLrIm_j6nky.-ogkAxzEAEn6tIwH) |
 | 11 | 5/04      | PAC-Bayesian Theory                    | [pdf](/slides/learning/11.pdf) / [vid](https://caltech.zoom.us/rec/play/kVxll8Ej94RkPNVb0qlm6DPBlhNY2A3GmheVLW-o5T2u08JvffmsbqJzp9gkciU1XkkkNPq5u5mz3rz8.wC-OPN9SqRq3okfc) |
-| 12 | 5/06      | Project Ideas                          | [zoom](https://caltech.zoom.us/j/83968752246) |
+| 12 | 5/06      | Project Ideas                          | [zoom](https://caltech.zoom.us/j/83968752246) / [pdf](/slides/learning/12.pdf)|
 |    |           | **Final Project & Guest Lectures**     |  |
 | 13 | 5/11      | Joe Marino                             |  |
 | 14 | 5/13      | Yasaman Bahri       				      |  |
