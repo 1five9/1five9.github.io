@@ -88,11 +88,11 @@ The final project will be conducted during the last four weeks of class. Student
 |    |           | **Final Project & Guest Lectures**     |  |
 | 13 | 5/11      | Joe Marino                             |  |
 | 14 | 5/13      | Yasaman Bahri       				      |  |
-| 15 | 5/18      | TBD	            				      |  |
-| 16 | 5/20      | TBD	            				      |  |
-| 17 | 5/25      | TBD	            				      |  |
-| 18 | 5/27      | TBD	            				      |  |
-| 19 | 6/01      | TBD	            				      |  |
+| 15 | 5/18      | Guanya Shi	            			  |  |
+| 16 | 5/20      | —	            				      |  |
+| 17 | 5/25      | —	            				      |  |
+| 18 | 5/27      | Guillermo Valle-Pérez & Ard Louis	  |  |
+| 19 | 6/01      | SueYeon Chung	                      |  |
 | 20 | 6/03      | Poster session	             	      |  |
 
 ### Reading Material
