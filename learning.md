@@ -76,11 +76,38 @@ Relative optimisers:
 Function counting and generalisation:
 - [Cover's function-counting theorem](https://isl.stanford.edu/~cover/papers/paper2.pdf);
 - [Vapnik and Chervonenkis's 1971 paper](https://epubs.siam.org/doi/10.1137/1116025);
-- [A textbook chapter on VC theory](http://agbs.kyb.tuebingen.mpg.de/lwk/) (chapter 5).
+- [A textbook chapter on VC theory](http://agbs.kyb.tuebingen.mpg.de/lwk/sections/) (chapter 5).
 
 VC theory and neural networks:
 - [Probable networks and plausible predictions](http://www.inference.org.uk/mackay/network.pdf) (section 10.4);
 - [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530).
 
 ### Lecture 11 references
+
+Bayesian data analysis and model comparison:
+- [David MacKay's book](https://www.inference.org.uk/itila/book.html) (chapter 28).
+
+PAC-Bayes derivation:
+- [Bounds for averaging classifiers](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.26.4424).
+
+PAC-Bayes for NNs:
+- [Sharpness & flatness of minimisers](https://arxiv.org/abs/1905.12213);
+- [Taking the prior "local" to the initialisation](https://arxiv.org/abs/1703.11008);
+- [Function space at infinite width](https://arxiv.org/abs/1805.08522).
+
 ### Lecture 12 references
+
+Understanding the distribution of solutions that SGD samples from:
+- [Neural tangent kernel](https://arxiv.org/abs/1806.07572);
+- [Is SGD a Bayesian sampler? Well, almost](https://arxiv.org/abs/2006.15191).
+
+Using PAC-Bayes for architecture design:
+- [Comparing bounds for different architectures](https://arxiv.org/abs/2012.04115);
+- [Analytic lower bound on the NN evidence](https://arxiv.org/abs/2103.01045);
+- [Learning GP invariances using the marginal likelihood](https://arxiv.org/abs/1808.05563) (a.k.a. evidence).
+
+Adversarial examples:
+- [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199).
+
+Combining NN architectural properties with control:
+- [Neural lander](https://arxiv.org/abs/1811.08027)—NNs with a Lipschitz constraint.
