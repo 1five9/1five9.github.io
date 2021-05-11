@@ -86,14 +86,14 @@ The final project will be conducted during the last four weeks of class. Student
 | 11 | 5/04      | PAC-Bayesian Theory                    | [pdf](/slides/learning/11.pdf) / [vid](https://caltech.zoom.us/rec/play/kVxll8Ej94RkPNVb0qlm6DPBlhNY2A3GmheVLW-o5T2u08JvffmsbqJzp9gkciU1XkkkNPq5u5mz3rz8.wC-OPN9SqRq3okfc) |
 | 12 | 5/06      | Project Ideas                          | [pdf](/slides/learning/12.pdf) / [vid](https://caltech.zoom.us/rec/play/WbMd0RukBwxyeZHM3slmTrnHiK0R7862SqA70eJl7WrlizTjj2cW_XLpdeEEMEJIbzg4m6_T_O1BZo3f.JI2a3eRUt3g5mB0u) |
 |    |           | **Final Project & Guest Lectures**     |  |
-| 13 | 5/11      | Joe Marino                             |  |
-| 14 | 5/13      | Yasaman Bahri       				      |  |
-| 15 | 5/18      | Guanya Shi	            			  |  |
+| 13 | 5/11      | Joe Marino                             | zoom link on Discord |
+| 14 | 5/13      | Yasaman Bahri       				      | zoom link on Discord |
+| 15 | 5/18      | Guanya Shi	            			  | zoom link on Discord |
 | 16 | 5/20      | —	            				      |  |
 | 17 | 5/25      | —	            				      |  |
-| 18 | 5/27      | Guillermo Valle-Pérez & Ard Louis	  |  |
-| 19 | 6/01      | SueYeon Chung	                      |  |
-| 20 | 6/03      | Poster session	             	      |  |
+| 18 | 5/27      | Guillermo Valle-Pérez & Ard Louis	  | zoom link on Discord |
+| 19 | 6/01      | SueYeon Chung	                      | zoom link on Discord |
+| 20 | 6/03      | Poster session	             	      | zoom link on Discord |
 
 ### Reading Material
 - [Control readings](/control).
