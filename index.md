@@ -86,7 +86,7 @@ The final project will be conducted during the last four weeks of class. Student
 | 11 | 5/04      | PAC-Bayesian Theory                    | [pdf](/slides/learning/11.pdf) / [vid](https://caltech.zoom.us/rec/play/kVxll8Ej94RkPNVb0qlm6DPBlhNY2A3GmheVLW-o5T2u08JvffmsbqJzp9gkciU1XkkkNPq5u5mz3rz8.wC-OPN9SqRq3okfc) |
 | 12 | 5/06      | Project Ideas                          | [pdf](/slides/learning/12.pdf) / [vid](https://caltech.zoom.us/rec/play/WbMd0RukBwxyeZHM3slmTrnHiK0R7862SqA70eJl7WrlizTjj2cW_XLpdeEEMEJIbzg4m6_T_O1BZo3f.JI2a3eRUt3g5mB0u) |
 |    |           | **Final Project & Guest Lectures**     |  |
-| 13 | 5/11      | Joe Marino                             | zoom link on Discord |
+| 13 | 5/11      | Joe Marino                             | [pdf](/slides/guest/marino.pdf) / [vid](https://caltech.zoom.us/rec/play/rKK9PNaM7dtfHEHEcJO0wxoB98Kde7vY_Ge63TjIfe_ATBxQwrL0NIs39vdk8bb9RJ-Kg57Ty4KK2Sdg.8RdlP3SKDlyAogR9) |
 | 14 | 5/13      | Yasaman Bahri       				      | zoom link on Discord |
 | 15 | 5/18      | Guanya Shi	            			  | zoom link on Discord |
 | 16 | 5/20      | —	            				      |  |
