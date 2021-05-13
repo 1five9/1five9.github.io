@@ -90,7 +90,7 @@ The final project will be conducted during the last four weeks of class. Student
 | 14 | 5/13      | Yasaman Bahri       				      | zoom link on Discord |
 | 15 | 5/18      | —	            			  		  |  |
 | 16 | 5/20      | Guanya Shi	            			  | zoom link on Discord |
-| 17 | 5/25      | —	            				      |  |
+| 17 | 5/25      | Roberto Calandra	            				      | zoom link on Discord |
 | 18 | 5/27      | Guillermo Valle-Pérez & Ard Louis	  | zoom link on Discord |
 | 19 | 6/01      | SueYeon Chung	                      | zoom link on Discord |
 | 20 | 6/03      | Poster session	             	      | zoom link on Discord |
