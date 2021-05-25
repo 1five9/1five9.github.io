@@ -89,7 +89,7 @@ The final project will be conducted during the last four weeks of class. Student
 | 13 | 5/11      | Joe Marino                             | [pdf](/slides/guest/marino.pdf) / [vid](https://caltech.zoom.us/rec/play/rKK9PNaM7dtfHEHEcJO0wxoB98Kde7vY_Ge63TjIfe_ATBxQwrL0NIs39vdk8bb9RJ-Kg57Ty4KK2Sdg.8RdlP3SKDlyAogR9) |
 | 14 | 5/13      | Yasaman Bahri       				      | [pdf](/slides/guest/bahri.pdf) / [vid](https://caltech.zoom.us/rec/share/D354UiOLtu9TEWY1anPyhT60Hx8uWrQad0qY9aT02B64rMrunvgw6lnyJLXTcQ.CrFXOmjkOuNjLTrF) |
 | 15 | 5/18      | —	            			  		  |  |
-| 16 | 5/20      | Guanya Shi	            			  | zoom link on Discord |
+| 16 | 5/20      | Guanya Shi	            			  | [vid](https://caltech.zoom.us/rec/share/TtP43hzMIUdXuMsPrpwQTteMenoXAD1L3A_Rv3uUxklt7lEU_wE89FrKtFpTgtc.XtVMvJKYsXwwl2lK) |
 | 17 | 5/25      | Roberto Calandra	            				      | zoom link on Discord |
 | 18 | 5/27      | Guillermo Valle-Pérez & Ard Louis	  | zoom link on Discord |
 | 19 | 6/01      | SueYeon Chung	                      | zoom link on Discord |
