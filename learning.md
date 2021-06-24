@@ -24,6 +24,22 @@ Neural networks are a powerful tool in modern machine learning, driving progress
 
 This part of the course will be taught by [Jeremy Bernstein](https://jeremybernste.in) ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
 
+### Lectures
+
+| #  | Date      | Subject	  	  	  	  	  	        | Resources              |
+| -- | --------- | -------------------------------------- | ---------------------- |
+|    |           | **Main Lectures**     |  |
+| 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://caltech.zoom.us/rec/play/rBy3iYhn18vVQZ51EcnqjEfFfCBtsNO19b-vu4md5WI8sNh4rACX0MbIki6-ZMwVXT2zTqHJWEOzd6DN.TvAzOTJK7yLBgABn) |
+| 8  | 4/22      | Network Function Spaces	              | [pdf](/slides/learning/08.pdf) / [vid](https://caltech.zoom.us/rec/play/bGLQRSJmHAQApPegayj75CteOeBcwFej4CAy9HzmVptMIkRYXnkhj-jLZHKWnw-y1FnUj_vdyAla9dYL.IcLdrTbDGHHyFxC-) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)|
+| 9  | 4/27      | Network Optimisation	                  | [pdf](/slides/learning/09.pdf) / [vid](https://caltech.zoom.us/rec/play/rU1nt-YjeJRe6W4nacFoOb-2PZlZJPCZR51HdMM7KXuZ9QEJmSY_qs7HBppFRLVPY_kciq0-zfUunMro.nE0keoLWfmIj-vhd) |
+| 10 | 4/29      | Statistical Learning Theory	          | [pdf](/slides/learning/10.pdf) / [vid](https://caltech.zoom.us/rec/play/ywPwbkJuyGT3gAOTOAd_0DPvwlQHk2Ln7YumVRE72eeG3d9E9tqjECDe84tlZsCMW3euLlLrIm_j6nky.-ogkAxzEAEn6tIwH) |
+| 11 | 5/04      | PAC-Bayesian Theory                    | [pdf](/slides/learning/11.pdf) / [vid](https://caltech.zoom.us/rec/play/kVxll8Ej94RkPNVb0qlm6DPBlhNY2A3GmheVLW-o5T2u08JvffmsbqJzp9gkciU1XkkkNPq5u5mz3rz8.wC-OPN9SqRq3okfc) |
+| 12 | 5/06      | Project Ideas                          | [pdf](/slides/learning/12.pdf) / [vid](https://caltech.zoom.us/rec/play/WbMd0RukBwxyeZHM3slmTrnHiK0R7862SqA70eJl7WrlizTjj2cW_XLpdeEEMEJIbzg4m6_T_O1BZo3f.JI2a3eRUt3g5mB0u) |
+|    |           | **Guest Lectures**     |  |
+| 14 | 5/13      | Yasaman Bahri       				      | [pdf](/slides/guest/bahri.pdf) / [vid](https://caltech.zoom.us/rec/share/D354UiOLtu9TEWY1anPyhT60Hx8uWrQad0qY9aT02B64rMrunvgw6lnyJLXTcQ.CrFXOmjkOuNjLTrF) |
+| 18 | 5/27      | Guillermo Valle-Pérez & Ard Louis	  | [pdf](/slides/guest/louis_valle-perez.pdf) / [vid](https://caltech.zoom.us/rec/share/dsE0BfjFVx4rihOIgOMCq6E4FzUwwT_x1slONNUwprfqkRvlfxExX4BG5aDhaa3T.PFVs_xEuheTNkSaE) |
+| 19 | 6/01      | SueYeon Chung	                      | [pdf](/slides/guest/chung.pdf) / [vid](https://caltech.zoom.us/rec/share/rV7vw-jukUtgv-XWAgUV61ywVnlJiCVt6ak4yrmGrcX6B7A3qm5fDpjmDd4XIZgX.nUi_HjxFOZ7WKgiA) |
+
 ### Lecture 7 references
 
 Network topologies:
@@ -36,6 +52,7 @@ Neural architecture search:
 
 Local network design:
 - [Centered weight normalization](https://ieeexplore.ieee.org/document/8237567)—weight constraints;
+- [Deep hyperspherical learning](https://arxiv.org/abs/1711.03189);
 - [Batch normalization](https://arxiv.org/abs/1502.03167);
 - [Normalization propagation](https://arxiv.org/abs/1603.01431)—nonlinearity design.
 

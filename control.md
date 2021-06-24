@@ -19,6 +19,22 @@ The class will first recall basic ideas from approximate dynamic programming and
 
 This part of the course will be taught by [Ugo Rosolia](https://urosolia.github.io/) ([urosolia@caltech.edu](mailito:urosolia@caltech.edu)).
 
+### Lectures
+
+| #  | Date      | Subject	  	  	  	  	  	        | Resources              |
+| -- | --------- | -------------------------------------- | ---------------------- |
+|    |           | **Main Lectures**              |  |
+| 1  | 3/30      | Discrete MDPs        	    	      | [pdf](https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf) / [vid](https://caltech.zoom.us/rec/share/VR3fwwu9QeALQ80dRtIghSqzpnkpAOpF_bwePNoBSnBzRxzgNN3uV4OdzvmBe8VE.ftHclybplbeeU0_s?startTime=1617141230000) |
+| 2  | 4/01      | Optimal Control       	              | [pdf](https://1five9.github.io/slides/control/Lecture_2_OCPs.pdf) / [vid](https://caltech.zoom.us/rec/share/v32Tbod7kDVVatTJO9u4LPjtuKYY1ffxIYMx77NvU3LPcjzvJfBMcr06K9vMkg6p.NbAhirdzWsEf9pE6?startTime=1617312887000)|
+| 3  | 4/06      | Model Predictive Control               | [pdf](https://1five9.github.io/slides/control/Lecture_3_MPC.pdf) / [vid](https://caltech.zoom.us/rec/share/Q0kDgmvMJ800GMX46lTipBVjw5Z5SkuJ7MVUXKjmx751bmAUCsTS9kx2AHQWZ-g1.JsnICIGB-NeBSJ9u?startTime=1617744869000)|
+| 4  | 4/08      | Learning MPC                           | [pdf](https://1five9.github.io/slides/control/Lecture_4_MPC_TC.pdf) / [vid](https://caltech.zoom.us/rec/share/6hy8WYahNjzqyvbw5vh2JX-RIKeq1LJEt-KTKOXye86DQxA9H7I9GM13jF7NXYU9.LMNtHFtXBmQETYfa?startTime=1617917676000) / [supp](https://1five9.github.io/slides/control/Lecture_4_SuppMaterial.pdf) |
+| 5  | 4/13      | Model Learning in MPC 				          | [pdf](https://1five9.github.io/slides/control/Lecture_5_MPC_and_Model_Learning.pdf) / [vid](https://caltech.zoom.us/rec/share/EUwZy302kdmZaHZTxdxm4xNI6AE1kBuijoUNg7Ay909A58kJhfd-THQrEFxOUoZQ.HWlG08DHSjJgL1Ts) |
+| 6  | 4/15      | Planning Under Uncertainty and Project Ideas    	          | [pdf](https://1five9.github.io/slides/control/Lecture_6.pdf)  / [vid](https://caltech.zoom.us/rec/play/NMspLIgaI2jjVw84424EkfA_kta9AXX8JIxm2WW2OljV36I7NQ9CMEsYkEyBSosgm2ksCMSM-FeZj4jD.kq7ZyqjY2FPskbRR?continueMode=true) |
+|    |           | **Guest Lectures**     |  |
+| 13 | 5/11      | Joe Marino                             | [pdf](/slides/guest/marino.pdf) / [vid](https://caltech.zoom.us/rec/play/rKK9PNaM7dtfHEHEcJO0wxoB98Kde7vY_Ge63TjIfe_ATBxQwrL0NIs39vdk8bb9RJ-Kg57Ty4KK2Sdg.8RdlP3SKDlyAogR9) |
+| 16 | 5/20      | Guanya Shi	            			  | [pdf](/slides/guest/shi.pdf) / [vid](https://caltech.zoom.us/rec/share/TtP43hzMIUdXuMsPrpwQTteMenoXAD1L3A_Rv3uUxklt7lEU_wE89FrKtFpTgtc.XtVMvJKYsXwwl2lK) |
+| 17 | 5/25      | Roberto Calandra	            				      | [pdf](https://slides.com/rcalandra/advances-mbrl/) / [vid](https://caltech.zoom.us/rec/share/I2IY3xPfBNE9Opp8WkjmDa6lFyrcWl7oDAb2Y3IzK2ZwmkRG-eD6hMdeJKbiOaKD.cmvXqrfRmoVBC6eP) |
+
 
 ### Reading material
 
