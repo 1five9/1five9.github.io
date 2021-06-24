@@ -91,8 +91,8 @@ The final project will be conducted during the last four weeks of class. Student
 | 15 | 5/18      | —	            			  		  |  |
 | 16 | 5/20      | Guanya Shi	            			  | [pdf](/slides/guest/shi.pdf) / [vid](https://caltech.zoom.us/rec/share/TtP43hzMIUdXuMsPrpwQTteMenoXAD1L3A_Rv3uUxklt7lEU_wE89FrKtFpTgtc.XtVMvJKYsXwwl2lK) |
 | 17 | 5/25      | Roberto Calandra	            				      | [pdf](https://slides.com/rcalandra/advances-mbrl/) / [vid](https://caltech.zoom.us/rec/share/I2IY3xPfBNE9Opp8WkjmDa6lFyrcWl7oDAb2Y3IzK2ZwmkRG-eD6hMdeJKbiOaKD.cmvXqrfRmoVBC6eP) |
-| 18 | 5/27      | Guillermo Valle-Pérez & Ard Louis	  | [pdf](/slides/guest/louis+valle-pérez.pdf) / [vid](https://caltech.zoom.us/rec/share/dsE0BfjFVx4rihOIgOMCq6E4FzUwwT_x1slONNUwprfqkRvlfxExX4BG5aDhaa3T.PFVs_xEuheTNkSaE) |
-| 19 | 6/01      | SueYeon Chung	                      | zoom link on Discord |
+| 18 | 5/27      | Guillermo Valle-Pérez & Ard Louis	  | [pdf](/slides/guest/louis_valle-perez.pdf) / [vid](https://caltech.zoom.us/rec/share/dsE0BfjFVx4rihOIgOMCq6E4FzUwwT_x1slONNUwprfqkRvlfxExX4BG5aDhaa3T.PFVs_xEuheTNkSaE) |
+| 19 | 6/01      | SueYeon Chung	                      | [pdf](/slides/guest/chung.pdf) / [vid](https://caltech.zoom.us/rec/share/rV7vw-jukUtgv-XWAgUV61ywVnlJiCVt6ak4yrmGrcX6B7A3qm5fDpjmDd4XIZgX.nUi_HjxFOZ7WKgiA) |
 | 20 | 6/03      | Poster session	             	      | |
 
 ### Reading Material
