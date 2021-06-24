@@ -64,7 +64,7 @@ A group has a total of 48 late hours for the term. This means that if the first 
 
 ### Final project
 
-The final project will be conducted during the last four weeks of class. Students should work in teams of two to three. Students may either pick one of the special topics to build their project on, or alternatively they may attempt to mix the two topics. Project are due 6/4 and should be completed before the poster session on 6/03.
+The final project will be conducted during the last four weeks of class. Students should work in teams of two to three. Students may either pick one of the special topics to build their project on, or alternatively they may attempt to mix the two topics. The poster session is on 6/03 and project reports are due 6/04.
 
 ### Lecture schedule
 
@@ -95,9 +95,9 @@ The final project will be conducted during the last four weeks of class. Student
 | 19 | 6/01      | SueYeon Chung	                      | [pdf](/slides/guest/chung.pdf) / [vid](https://caltech.zoom.us/rec/share/rV7vw-jukUtgv-XWAgUV61ywVnlJiCVt6ak4yrmGrcX6B7A3qm5fDpjmDd4XIZgX.nUi_HjxFOZ7WKgiA) |
 | 20 | 6/03      | Poster session	             	      | |
 
-### Reading Material
-- [Control readings](/control).
-- [Learning readings](/learning).
+### Reading material
+
+Additional references are listed on the [control](/control) and [learning](/learning) subpages.
 
 
 ### Acknowledgements
