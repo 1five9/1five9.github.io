@@ -19,6 +19,13 @@ The class will first recall basic ideas from approximate dynamic programming and
 
 This part of the course will be taught by [Ugo Rosolia](https://urosolia.github.io/) ([urosolia@caltech.edu](mailito:urosolia@caltech.edu)).
 
+### Homeworks
+
+| #    | Date set        | Date due	  	  | Resources              |
+| ----------- | --------------- | --------------- | ---------------------- |
+| 1  | 4/01     | 4/08    | [hw1.zip](https://github.com/1five9/1five9.github.io/raw/master/hw/hw1.zip) |
+| 2  | 4/08     | 4/15    | [hw2.zip](https://github.com/1five9/1five9.github.io/raw/master/hw/hw2.zip) |
+
 ### Lectures
 
 | #  | Date      | Subject	  	  	  	  	  	        | Resources              |

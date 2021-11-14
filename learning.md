@@ -24,6 +24,13 @@ Neural networks are a powerful tool in modern machine learning, driving progress
 
 This part of the course will be taught by [Jeremy Bernstein](https://jeremybernste.in) ([bernstein@caltech.edu](mailto:bernstein@caltech.edu)).
 
+### Homeworks
+
+| #    | Date set        | Date due	  	  | Resources              |
+| ----------- | --------------- | --------------- | ---------------------- |
+| 3  | 4/22     | 4/29    | [hw3.zip](https://github.com/1five9/1five9.github.io/raw/master/hw/hw3.zip) |
+| 4  | 4/29     | 5/06    | [hw4.pdf](/hw/hw4.pdf) |
+
 ### Lectures
 
 | #  | Date      | Subject	  	  	  	  	  	        | Resources              |
