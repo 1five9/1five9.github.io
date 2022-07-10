@@ -36,11 +36,11 @@ This part of the course will be taught by [Jeremy Bernstein](https://jeremyberns
 | #  | Date      | Subject	  	  	  	  	  	        | Resources              |
 | -- | --------- | -------------------------------------- | ---------------------- |
 |    |           | **Main Lectures**     |  |
-| 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://www.youtube.com/watch?v=lPSzDyzRCyU) |
-| 8  | 4/22      | Network Function Spaces	              | [pdf](/slides/learning/08.pdf) / [vid](https://www.youtube.com/watch?v=dt6YkISvSOk) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)|
-| 9  | 4/27      | Network Optimisation	                  | [pdf](/slides/learning/09.pdf) / [vid](https://www.youtube.com/watch?v=wDzUJd2fG4I) |
-| 10 | 4/29      | Statistical Learning Theory	          | [pdf](/slides/learning/10.pdf) / [vid](https://www.youtube.com/watch?v=PxX98VwI_gY) |
-| 11 | 5/04      | PAC-Bayesian Theory                    | [pdf](/slides/learning/11.pdf) / [vid](https://www.youtube.com/watch?v=HIrP6_vgomE) |
+| 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://www.youtube.com/watch?v=lPSzDyzRCyU&list=PLuz4CTPOUNi6OydQwoAR0pBkLn4H1bhS6&ab_channel=YisongYue) |
+| 8  | 4/22      | Network Function Spaces	              | [pdf](/slides/learning/08.pdf) / [vid](https://www.youtube.com/watch?v=dt6YkISvSOk&list=PLuz4CTPOUNi6OydQwoAR0pBkLn4H1bhS6&index=2&ab_channel=YisongYue) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)|
+| 9  | 4/27      | Network Optimisation	                  | [pdf](/slides/learning/09.pdf) / [vid](https://www.youtube.com/watch?v=wDzUJd2fG4I&list=PLuz4CTPOUNi6OydQwoAR0pBkLn4H1bhS6&index=3&ab_channel=YisongYue) |
+| 10 | 4/29      | Statistical Learning Theory	          | [pdf](/slides/learning/10.pdf) / [vid](https://www.youtube.com/watch?v=PxX98VwI_gY&list=PLuz4CTPOUNi6OydQwoAR0pBkLn4H1bhS6&index=4&ab_channel=YisongYue) |
+| 11 | 5/04      | PAC-Bayesian Theory                    | [pdf](/slides/learning/11.pdf) / [vid](https://www.youtube.com/watch?v=HIrP6_vgomE&list=PLuz4CTPOUNi6OydQwoAR0pBkLn4H1bhS6&index=5&ab_channel=YisongYue) |
 | 12 | 5/06      | Project Ideas                          | [pdf](/slides/learning/12.pdf) / [vid](https://caltech.zoom.us/rec/play/WbMd0RukBwxyeZHM3slmTrnHiK0R7862SqA70eJl7WrlizTjj2cW_XLpdeEEMEJIbzg4m6_T_O1BZo3f.JI2a3eRUt3g5mB0u) |
 |    |           | **Guest Lectures**     |  |
 | 14 | 5/13      | Yasaman Bahri       				      | [pdf](/slides/guest/bahri.pdf) / [vid](https://caltech.zoom.us/rec/share/D354UiOLtu9TEWY1anPyhT60Hx8uWrQad0qY9aT02B64rMrunvgw6lnyJLXTcQ.CrFXOmjkOuNjLTrF) |
