@@ -36,11 +36,11 @@ This part of the course will be taught by [Jeremy Bernstein](https://jeremyberns
 | #  | Date      | Subject	  	  	  	  	  	        | Resources              |
 | -- | --------- | -------------------------------------- | ---------------------- |
 |    |           | **Main Lectures**     |  |
-| 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://caltech.zoom.us/rec/play/rBy3iYhn18vVQZ51EcnqjEfFfCBtsNO19b-vu4md5WI8sNh4rACX0MbIki6-ZMwVXT2zTqHJWEOzd6DN.TvAzOTJK7yLBgABn) |
-| 8  | 4/22      | Network Function Spaces	              | [pdf](/slides/learning/08.pdf) / [vid](https://caltech.zoom.us/rec/play/bGLQRSJmHAQApPegayj75CteOeBcwFej4CAy9HzmVptMIkRYXnkhj-jLZHKWnw-y1FnUj_vdyAla9dYL.IcLdrTbDGHHyFxC-) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)|
-| 9  | 4/27      | Network Optimisation	                  | [pdf](/slides/learning/09.pdf) / [vid](https://caltech.zoom.us/rec/play/rU1nt-YjeJRe6W4nacFoOb-2PZlZJPCZR51HdMM7KXuZ9QEJmSY_qs7HBppFRLVPY_kciq0-zfUunMro.nE0keoLWfmIj-vhd) |
-| 10 | 4/29      | Statistical Learning Theory	          | [pdf](/slides/learning/10.pdf) / [vid](https://caltech.zoom.us/rec/play/ywPwbkJuyGT3gAOTOAd_0DPvwlQHk2Ln7YumVRE72eeG3d9E9tqjECDe84tlZsCMW3euLlLrIm_j6nky.-ogkAxzEAEn6tIwH) |
-| 11 | 5/04      | PAC-Bayesian Theory                    | [pdf](/slides/learning/11.pdf) / [vid](https://caltech.zoom.us/rec/play/kVxll8Ej94RkPNVb0qlm6DPBlhNY2A3GmheVLW-o5T2u08JvffmsbqJzp9gkciU1XkkkNPq5u5mz3rz8.wC-OPN9SqRq3okfc) |
+| 7  | 4/20      | Neural Architecture Design	          | [pdf](/slides/learning/07.pdf) / [vid](https://www.youtube.com/watch?v=lPSzDyzRCyU) |
+| 8  | 4/22      | Network Function Spaces	              | [pdf](/slides/learning/08.pdf) / [vid](https://www.youtube.com/watch?v=dt6YkISvSOk) / [ipynb](https://github.com/1five9/1five9.github.io/blob/master/slides/learning/08.ipynb)|
+| 9  | 4/27      | Network Optimisation	                  | [pdf](/slides/learning/09.pdf) / [vid](https://www.youtube.com/watch?v=wDzUJd2fG4I) |
+| 10 | 4/29      | Statistical Learning Theory	          | [pdf](/slides/learning/10.pdf) / [vid](https://www.youtube.com/watch?v=PxX98VwI_gY) |
+| 11 | 5/04      | PAC-Bayesian Theory                    | [pdf](/slides/learning/11.pdf) / [vid](https://www.youtube.com/watch?v=HIrP6_vgomE) |
 | 12 | 5/06      | Project Ideas                          | [pdf](/slides/learning/12.pdf) / [vid](https://caltech.zoom.us/rec/play/WbMd0RukBwxyeZHM3slmTrnHiK0R7862SqA70eJl7WrlizTjj2cW_XLpdeEEMEJIbzg4m6_T_O1BZo3f.JI2a3eRUt3g5mB0u) |
 |    |           | **Guest Lectures**     |  |
 | 14 | 5/13      | Yasaman Bahri       				      | [pdf](/slides/guest/bahri.pdf) / [vid](https://caltech.zoom.us/rec/share/D354UiOLtu9TEWY1anPyhT60Hx8uWrQad0qY9aT02B64rMrunvgw6lnyJLXTcQ.CrFXOmjkOuNjLTrF) |
